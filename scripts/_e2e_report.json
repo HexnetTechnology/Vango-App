@@ -1,0 +1,1244 @@
+{
+  "steps": [],
+  "ok": true,
+  "focus": true,
+  "ble_notify_before": {
+    "slvConn": "Yes",
+    "numOfO": 12,
+    "numOfD": 8,
+    "numOfS": 5,
+    "RGBE": "yes",
+    "Th": 1,
+    "volt": 0.0,
+    "outDB": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "dDB": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sDB": [
+      0,
+      0,
+      68,
+      26,
+      0
+    ],
+    "sensorTemp": 0,
+    "sensorHumidity": 0,
+    "RGBDB": [
+      0,
+      255,
+      0,
+      0
+    ],
+    "panelSeq": 4
+  },
+  "ble_link": true,
+  "relays": [
+    {
+      "relay": 1,
+      "sent": [
+        "08-15 09:09:21.932 24652 24652 I System.out: data sent (BLE): {\"MessageType\":\"Write\",\"writeDataType\":\"Output\",\"writeNo\":0,\"writeData\":1}",
+        "08-15 09:09:21.933 24652 24652 I System.out: ✅ Digital BLE sent - Port: 0, Value: true"
+      ],
+      "outDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "relay": 2,
+      "sent": [
+        "08-15 09:09:24.886 24652 24652 I System.out: data sent (BLE): {\"MessageType\":\"Write\",\"writeDataType\":\"Output\",\"writeNo\":1,\"writeData\":1}",
+        "08-15 09:09:24.886 24652 24652 I System.out: ✅ Digital BLE sent - Port: 1, Value: true"
+      ],
+      "outDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "relay": 3,
+      "sent": [
+        "08-15 09:09:27.804 24652 24652 I System.out: data sent (BLE): {\"MessageType\":\"Write\",\"writeDataType\":\"Output\",\"writeNo\":2,\"writeData\":1}",
+        "08-15 09:09:27.804 24652 24652 I System.out: ✅ Digital BLE sent - Port: 2, Value: true"
+      ],
+      "outDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "relay": 4,
+      "sent": [
+        "08-15 09:09:30.716 24652 24652 I System.out: data sent (BLE): {\"MessageType\":\"Write\",\"writeDataType\":\"Output\",\"writeNo\":3,\"writeData\":1}",
+        "08-15 09:09:30.716 24652 24652 I System.out: ✅ Digital BLE sent - Port: 3, Value: true"
+      ],
+      "outDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "relay": 5,
+      "sent": [
+        "08-15 09:09:33.615 24652 24652 I System.out: data sent (BLE): {\"MessageType\":\"Write\",\"writeDataType\":\"Output\",\"writeNo\":4,\"writeData\":1}",
+        "08-15 09:09:33.615 24652 24652 I System.out: ✅ Digital BLE sent - Port: 4, Value: true"
+      ],
+      "outDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "relay": 6,
+      "sent": [
+        "08-15 09:09:36.529 24652 24652 I System.out: data sent (BLE): {\"MessageType\":\"Write\",\"writeDataType\":\"Output\",\"writeNo\":5,\"writeData\":1}",
+        "08-15 09:09:36.530 24652 24652 I System.out: ✅ Digital BLE sent - Port: 5, Value: true"
+      ],
+      "outDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "relay": 7,
+      "sent": [
+        "08-15 09:09:39.444 24652 24652 I System.out: data sent (BLE): {\"MessageType\":\"Write\",\"writeDataType\":\"Output\",\"writeNo\":6,\"writeData\":1}",
+        "08-15 09:09:39.444 24652 24652 I System.out: ✅ Digital BLE sent - Port: 6, Value: true"
+      ],
+      "outDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "relay": 8,
+      "sent": [
+        "08-15 09:09:42.383 24652 24652 I System.out: data sent (BLE): {\"MessageType\":\"Write\",\"writeDataType\":\"Output\",\"writeNo\":7,\"writeData\":1}",
+        "08-15 09:09:42.384 24652 24652 I System.out: ✅ Digital BLE sent - Port: 7, Value: true"
+      ],
+      "outDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "relay": 9,
+      "sent": [
+        "08-15 09:09:45.283 24652 24652 I System.out: data sent (BLE): {\"MessageType\":\"Write\",\"writeDataType\":\"Output\",\"writeNo\":8,\"writeData\":1}",
+        "08-15 09:09:45.283 24652 24652 I System.out: ✅ Digital BLE sent - Port: 8, Value: true"
+      ],
+      "outDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "relay": 10,
+      "sent": [
+        "08-15 09:09:48.181 24652 24652 I System.out: data sent (BLE): {\"MessageType\":\"Write\",\"writeDataType\":\"Output\",\"writeNo\":9,\"writeData\":1}",
+        "08-15 09:09:48.181 24652 24652 I System.out: ✅ Digital BLE sent - Port: 9, Value: true"
+      ],
+      "outDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "relay": 11,
+      "sent": [
+        "08-15 09:09:51.078 24652 24652 I System.out: data sent (BLE): {\"MessageType\":\"Write\",\"writeDataType\":\"Output\",\"writeNo\":10,\"writeData\":1}",
+        "08-15 09:09:51.078 24652 24652 I System.out: ✅ Digital BLE sent - Port: 10, Value: true"
+      ],
+      "outDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "relay": 12,
+      "sent": [
+        "08-15 09:09:53.994 24652 24652 I System.out: data sent (BLE): {\"MessageType\":\"Write\",\"writeDataType\":\"Output\",\"writeNo\":11,\"writeData\":1}",
+        "08-15 09:09:53.994 24652 24652 I System.out: ✅ Digital BLE sent - Port: 11, Value: true"
+      ],
+      "outDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    }
+  ],
+  "dimmers": [
+    {
+      "dimmer": 1,
+      "sent": [
+        "08-15 09:09:56.930 24652 24652 I System.out: ✅ Dimmer BLE sent - Port: 0, Value: 0"
+      ],
+      "dDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "dimmer": 2,
+      "sent": [
+        "08-15 09:09:58.467 24652 24652 I System.out: ✅ Dimmer BLE sent - Port: 1, Value: 0"
+      ],
+      "dDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "dimmer": 3,
+      "sent": [
+        "08-15 09:10:00.050 24652 24652 I System.out: ✅ Dimmer BLE sent - Port: 2, Value: 0"
+      ],
+      "dDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "dimmer": 4,
+      "sent": [
+        "08-15 09:10:01.595 24652 24652 I System.out: ✅ Dimmer BLE sent - Port: 3, Value: 0"
+      ],
+      "dDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "dimmer": 5,
+      "sent": [
+        "08-15 09:10:03.166 24652 24652 I System.out: ✅ Dimmer BLE sent - Port: 4, Value: 0"
+      ],
+      "dDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "dimmer": 6,
+      "sent": [
+        "08-15 09:10:04.759 24652 24652 I System.out: ✅ Dimmer BLE sent - Port: 5, Value: 0"
+      ],
+      "dDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "dimmer": 7,
+      "sent": [
+        "08-15 09:10:06.311 24652 24652 I System.out: ✅ Dimmer BLE sent - Port: 6, Value: 0"
+      ],
+      "dDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    },
+    {
+      "dimmer": 8,
+      "sent": [
+        "08-15 09:10:07.852 24652 24652 I System.out: ✅ Dimmer BLE sent - Port: 7, Value: 0"
+      ],
+      "dDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pass": true
+    }
+  ],
+  "pages": {
+    "home": {
+      "labels": [
+        "VanGO",
+        "Akıllı Karavan Sistemi",
+        "%100",
+        "12.30 V",
+        "09:10  2026 Ağu 15",
+        "DIMMERLER (8 ADET)",
+        "DIMM 1",
+        "%0",
+        "DIMM 2",
+        "%0",
+        "DIMM 3",
+        "%0",
+        "DIMM 4",
+        "%0",
+        "DIMM 5",
+        "%0",
+        "DIMM 6",
+        "%0",
+        "DIMM 7",
+        "%0",
+        "DIMM 8",
+        "%0",
+        "Temiz Su",
+        "%86",
+        "Gri Su",
+        "%48",
+        "Kirli Su",
+        "%32",
+        "KONTROLLER",
+        "sdlfkjhsdlkjfhsd",
+        "Röle 2",
+        "Röle 3",
+        "Röle 4",
+        "Röle 5",
+        "Röle 6",
+        "Röle 7",
+        "Röle 8",
+        "Röle 9",
+        "Röle 10",
+        "Röle 11"
+      ],
+      "tapped": [
+        {
+          "xy": [
+            629,
+            195
+          ],
+          "text": "",
+          "desc": ""
+        },
+        {
+          "xy": [
+            629,
+            271
+          ],
+          "text": "",
+          "desc": ""
+        },
+        {
+          "xy": [
+            629,
+            347
+          ],
+          "text": "",
+          "desc": ""
+        },
+        {
+          "xy": [
+            629,
+            424
+          ],
+          "text": "",
+          "desc": ""
+        },
+        {
+          "xy": [
+            629,
+            501
+          ],
+          "text": "",
+          "desc": ""
+        },
+        {
+          "xy": [
+            629,
+            578
+          ],
+          "text": "",
+          "desc": ""
+        }
+      ],
+      "sent": [
+        "08-15 09:10:17.081 24652 24652 I System.out: ✅ Dimmer BLE sent - Port: 3, Value: 0",
+        "08-15 09:10:18.098 24652 24652 I System.out: ✅ Dimmer BLE sent - Port: 4, Value: 0",
+        "08-15 09:10:19.106 24652 24652 I System.out: ✅ Dimmer BLE sent - Port: 5, Value: 0"
+      ],
+      "notify": {
+        "slvConn": "Yes",
+        "numOfO": 12,
+        "numOfD": 8,
+        "numOfS": 5,
+        "RGBE": "yes",
+        "Th": 1,
+        "volt": 0.0,
+        "outDB": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "dDB": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "sDB": [
+          0,
+          0,
+          68,
+          26,
+          0
+        ],
+        "sensorTemp": 0,
+        "sensorHumidity": 0,
+        "RGBDB": [
+          0,
+          255,
+          0,
+          0
+        ],
+        "panelSeq": 4
+      },
+      "outDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "slvConn": "Yes"
+    },
+    "water": {
+      "labels": [
+        "VanGO",
+        "Akıllı Karavan Sistemi",
+        "%100",
+        "12.30 V",
+        "09:10  2026 Ağu 15",
+        "SU SISTEMI",
+        "TEMIZ SU",
+        "100%",
+        "75%",
+        "50%",
+        "25%",
+        "0%",
+        "%86",
+        "Normal",
+        "GRI SU",
+        "100%",
+        "75%",
+        "50%",
+        "25%",
+        "0%",
+        "%48",
+        "Normal",
+        "KIRLI SU",
+        "100%",
+        "75%",
+        "50%",
+        "25%",
+        "0%",
+        "%32",
+        "Normal",
+        "SU SISTEMI BILGILERI",
+        "Toplam Kapasite",
+        "320 L",
+        "Temiz Su Kapasitesi",
+        "120 L",
+        "Gri Su Kapasitesi",
+        "100 L",
+        "Kirli Su Kapasitesi",
+        "100 L",
+        "SU P."
+      ],
+      "tapped": [
+        {
+          "xy": [
+            1619,
+            927
+          ],
+          "text": "",
+          "desc": ""
+        }
+      ],
+      "sent": [],
+      "notify": {
+        "slvConn": "Yes",
+        "numOfO": 12,
+        "numOfD": 8,
+        "numOfS": 5,
+        "RGBE": "yes",
+        "Th": 1,
+        "volt": 0.0,
+        "outDB": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "dDB": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "sDB": [
+          0,
+          0,
+          68,
+          26,
+          0
+        ],
+        "sensorTemp": 0,
+        "sensorHumidity": 0,
+        "RGBDB": [
+          0,
+          255,
+          0,
+          0
+        ],
+        "panelSeq": 4
+      },
+      "outDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "slvConn": "Yes"
+    },
+    "climate": {
+      "labels": [
+        "VanGO",
+        "Akıllı Karavan Sistemi",
+        "%100",
+        "12.30 V",
+        "09:10  2026 Ağu 15",
+        "İKLIMLENDIRME",
+        "İÇ ORTAM",
+        "24.6°C",
+        "Sıcaklık",
+        "%45",
+        "Nem",
+        "Normal",
+        "Konfor",
+        "DIŞ ORTAM",
+        "28.7°C",
+        "Sıcaklık",
+        "%38",
+        "Nem",
+        "Dikkat",
+        "YATAK ODASI",
+        "22.8°C",
+        "Sıcaklık",
+        "%50",
+        "Nem",
+        "Normal",
+        "Konfor",
+        "FAN KONTROLÜ",
+        "Çalıştırmak ve kapatmak için fan ikonuna basın",
+        "FAN 1",
+        "Tavan Fanı",
+        "HIZ",
+        "%60",
+        "DURUM",
+        "Çalışıyor",
+        "GERI BILDIRIM",
+        "Normal",
+        "AKTIF SÜRE",
+        "3h 25m",
+        "Ana Sayfa",
+        "Su Sistemi"
+      ],
+      "tapped": [
+        {
+          "xy": [
+            171,
+            860
+          ],
+          "text": "",
+          "desc": ""
+        },
+        {
+          "xy": [
+            653,
+            915
+          ],
+          "text": "",
+          "desc": ""
+        },
+        {
+          "xy": [
+            1133,
+            915
+          ],
+          "text": "",
+          "desc": ""
+        }
+      ],
+      "sent": [],
+      "notify": {
+        "slvConn": "Yes",
+        "numOfO": 12,
+        "numOfD": 8,
+        "numOfS": 5,
+        "RGBE": "yes",
+        "Th": 1,
+        "volt": 0.0,
+        "outDB": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "dDB": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "sDB": [
+          0,
+          0,
+          68,
+          26,
+          0
+        ],
+        "sensorTemp": 0,
+        "sensorHumidity": 0,
+        "RGBDB": [
+          0,
+          255,
+          0,
+          0
+        ],
+        "panelSeq": 4
+      },
+      "outDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "slvConn": "Yes"
+    },
+    "motor": {
+      "labels": [
+        "VanGO",
+        "Akıllı Karavan Sistemi",
+        "%100",
+        "12.30 V",
+        "09:10  2026 Ağu 15",
+        "MOTOR",
+        "MOTOR 1",
+        "SON SÜRE",
+        "0m 00s",
+        "Yatak Kaldırma Motoru",
+        "Beklemede",
+        "YÖN",
+        "Yukarı",
+        "YÖN",
+        "Aşağı",
+        "Kilitli",
+        "HIZ",
+        "%60",
+        "SON ÇALIŞTIRMA",
+        "2026-08-15 09:10",
+        "MOTOR 2",
+        "SON SÜRE",
+        "0m 00s",
+        "Tente Motoru",
+        "Beklemede",
+        "YÖN",
+        "Açılıyor",
+        "YÖN",
+        "Kapanıyor",
+        "Kilitli",
+        "HIZ",
+        "%60",
+        "SON ÇALIŞTIRMA",
+        "2026-08-15 09:10",
+        "Ana Sayfa",
+        "Su Sistemi",
+        "İklimlendirme",
+        "Motor",
+        "Enerji Tüketimi",
+        "Ayarlar"
+      ],
+      "tapped": [
+        {
+          "xy": [
+            491,
+            808
+          ],
+          "text": "",
+          "desc": ""
+        },
+        {
+          "xy": [
+            1430,
+            808
+          ],
+          "text": "",
+          "desc": ""
+        }
+      ],
+      "sent": [],
+      "notify": {
+        "slvConn": "Yes",
+        "numOfO": 12,
+        "numOfD": 8,
+        "numOfS": 5,
+        "RGBE": "yes",
+        "Th": 1,
+        "volt": 0.0,
+        "outDB": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "dDB": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "sDB": [
+          0,
+          0,
+          68,
+          26,
+          0
+        ],
+        "sensorTemp": 0,
+        "sensorHumidity": 0,
+        "RGBDB": [
+          0,
+          255,
+          0,
+          0
+        ],
+        "panelSeq": 4
+      },
+      "outDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "slvConn": "Yes"
+    },
+    "energy": {
+      "labels": [
+        "VanGO",
+        "Akıllı Karavan Sistemi",
+        "%100",
+        "12.30 V",
+        "09:10  2026 Ağu 15",
+        "ANLIK TÜKETIM",
+        "1250 W",
+        "1.25 kW",
+        "1.25",
+        "kW",
+        "BUGÜN TÜKETIM",
+        "12.8 kWh",
+        "Toplam",
+        "KALAN ENERJI",
+        "85 %",
+        "10 sa 17 dk",
+        "85",
+        "%",
+        "TÜKETIM GRAFIĞI",
+        "Günlük",
+        "Haftalık",
+        "Aylık",
+        "Yıllık",
+        "2.0",
+        "1.5",
+        "1.0",
+        "0.5",
+        "0",
+        "00:00",
+        "06:00",
+        "12:00",
+        "18:00",
+        "24:00",
+        "kW",
+        "TÜKETIM DAĞILIMI",
+        "12.8",
+        "kWh",
+        "Aydınlatma",
+        "3.2 kWh  %25",
+        "Prizler"
+      ],
+      "tapped": [
+        {
+          "xy": [
+            808,
+            394
+          ],
+          "text": "Günlük",
+          "desc": ""
+        },
+        {
+          "xy": [
+            915,
+            394
+          ],
+          "text": "Haftalık",
+          "desc": ""
+        },
+        {
+          "xy": [
+            1012,
+            394
+          ],
+          "text": "Aylık",
+          "desc": ""
+        },
+        {
+          "xy": [
+            1096,
+            394
+          ],
+          "text": "Yıllık",
+          "desc": ""
+        }
+      ],
+      "sent": [],
+      "notify": {
+        "slvConn": "Yes",
+        "numOfO": 12,
+        "numOfD": 8,
+        "numOfS": 5,
+        "RGBE": "yes",
+        "Th": 1,
+        "volt": 0.0,
+        "outDB": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "dDB": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "sDB": [
+          0,
+          0,
+          68,
+          26,
+          0
+        ],
+        "sensorTemp": 0,
+        "sensorHumidity": 0,
+        "RGBDB": [
+          0,
+          255,
+          0,
+          0
+        ],
+        "panelSeq": 4
+      },
+      "outDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "dDB": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "slvConn": "Yes"
+    },
+    "settings": {
+      "labels": [
+        "VanGO",
+        "Akıllı Karavan Sistemi",
+        "%100",
+        "12.30 V",
+        "09:10  2026 Ağu 15",
+        "AYARLAR",
+        "Sistem ayarlarını yönetin.",
+        "Panel ayarları",
+        "Panel düzeninizi özelleştirin",
+        "Bağlantı",
+        "Bağlantı ayarlarını yönetin.",
+        "Tema",
+        "Uygulama temasını seçin.",
+        "Dil",
+        "Uygulama dilini seçin.",
+        "Profil",
+        "Profil bilgilerinizi düzenleyin.",
+        "Bildirimler",
+        "Bildirim tercihlerinizi yönetin.",
+        "Hakkında &amp; Yardım",
+        "Uygulama bilgileri ve destek.",
+        "PANEL SAYFASI",
+        "Kilitle",
+        "Varsayılanlara Dön",
+        "Kaydet",
+        "Butonlar",
+        "Aydınlatmalar",
+        "Su Tankları",
+        "İklimlendirme",
+        "BUTONLAR (12/12)",
+        "İkon veya yer değiştirmek için önce Düzenleme Modunu açın.",
+        "Düzenleme Modu",
+        "Röle 1",
+        "sdlfkjhsdlkjfhsd",
+        "Röle 2",
+        "Röle 2",
+        "Röle 3",
+        "Röle 3",
+        "Röle 4",
+        "Röle 4"
+      ],
+      "tapped": [],
+      "sent": []
+    }
+  }
+}

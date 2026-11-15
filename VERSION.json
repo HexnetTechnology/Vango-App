@@ -1,0 +1,24 @@
+{
+    "product":  "vango-app",
+    "name":  "VanGO Tablet / Telefon",
+    "line":  "v0-91",
+    "makro":  "v0.91",
+    "mikro":  "v0.91-0002",
+    "semver":  "0.91.0",
+    "versionName":  "0.91-002",
+    "versionCode":  9102,
+    "build_date":  "2026-11-13",
+    "build_name":  "VanGO-v0.91-001",
+    "targets":  {
+                    "android_tablet":  "v0.91-0002",
+                    "android_phone":  "v0.91-0002",
+                    "ios":  "v0.91-0002"
+                },
+    "modules":  {
+                    "ble":  "v0.91-0002",
+                    "mqtt":  "v0.91-0002",
+                    "ui":  "v0.91-0002",
+                    "panel":  "v0.91-0002"
+                },
+    "notes":  "Dimmer ikon + BLE ikon merge"
+}
